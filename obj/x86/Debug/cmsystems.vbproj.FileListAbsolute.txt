@@ -1,0 +1,16 @@
+C:\Users\Victor\documents\visual studio 2010\Projects\cmsystems\cmsystems\bin\Debug\cmsystems.exe
+C:\Users\Victor\documents\visual studio 2010\Projects\cmsystems\cmsystems\bin\Debug\cmsystems.pdb
+C:\Users\Victor\documents\visual studio 2010\Projects\cmsystems\cmsystems\bin\Debug\cmsystems.xml
+C:\Users\Victor\documents\visual studio 2010\Projects\cmsystems\cmsystems\obj\x86\Debug\login.Form1.resources
+C:\Users\Victor\documents\visual studio 2010\Projects\cmsystems\cmsystems\obj\x86\Debug\login.Resources.resources
+C:\Users\Victor\documents\visual studio 2010\Projects\cmsystems\cmsystems\obj\x86\Debug\cmsystems.vbproj.GenerateResource.Cache
+C:\Users\Victor\documents\visual studio 2010\Projects\cmsystems\cmsystems\obj\x86\Debug\cmsystems.exe
+C:\Users\Victor\documents\visual studio 2010\Projects\cmsystems\cmsystems\obj\x86\Debug\cmsystems.xml
+C:\Users\Victor\documents\visual studio 2010\Projects\cmsystems\cmsystems\obj\x86\Debug\cmsystems.pdb
+C:\Users\Victor\documents\visual studio 2010\Projects\cmsystems\cmsystems\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Victor\documents\visual studio 2010\Projects\cmsystems\cmsystems\obj\x86\Debug\cmsystems.vbprojResolveAssemblyReference.cache
+C:\Users\Victor\documents\visual studio 2010\Projects\cmsystems\cmsystems\obj\x86\Debug\login.Form2.resources
+C:\Users\Victor\documents\visual studio 2010\Projects\cmsystems\cmsystems\obj\x86\Debug\login.Form3.resources
+D:\proyectos nuevos\cmsystems\cmsystems\obj\x86\Debug\cmsystems.exe
+D:\proyectos nuevos\cmsystems\cmsystems\obj\x86\Debug\cmsystems.xml
+D:\proyectos nuevos\cmsystems\cmsystems\obj\x86\Debug\cmsystems.pdb
