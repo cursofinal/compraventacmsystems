@@ -22,8 +22,6 @@ C:\Users\Eduardo\Documents\proyecto\compraventacmsystems\bin\Debug\cmsystems.pdb
 C:\Users\Eduardo\Documents\proyecto\compraventacmsystems\bin\Debug\cmsystems.xml
 C:\Users\Eduardo\Documents\proyecto\compraventacmsystems\obj\x86\Debug\cmsystems.vbprojResolveAssemblyReference.cache
 C:\Users\Eduardo\Documents\proyecto\compraventacmsystems\obj\x86\Debug\login.Form1.resources
-C:\Users\Eduardo\Documents\proyecto\compraventacmsystems\obj\x86\Debug\login.Form2.resources
-C:\Users\Eduardo\Documents\proyecto\compraventacmsystems\obj\x86\Debug\login.Form3.resources
 C:\Users\Eduardo\Documents\proyecto\compraventacmsystems\obj\x86\Debug\login.Resources.resources
 C:\Users\Eduardo\Documents\proyecto\compraventacmsystems\obj\x86\Debug\cmsystems.vbproj.GenerateResource.Cache
 D:\proyectos nuevos\cmsystems\cmsystems\bin\Debug\cmsystems.exe
@@ -36,3 +34,6 @@ D:\proyectos nuevos\cmsystems\cmsystems\obj\x86\Debug\login.Principal.resources
 D:\proyectos nuevos\cmsystems\cmsystems\obj\x86\Debug\login.Recibo.resources
 D:\proyectos nuevos\cmsystems\cmsystems\obj\x86\Debug\login.Resources.resources
 D:\proyectos nuevos\cmsystems\cmsystems\obj\x86\Debug\cmsystems.vbproj.GenerateResource.Cache
+C:\Users\Eduardo\Documents\proyecto\compraventacmsystems\obj\x86\Debug\login.factura.resources
+C:\Users\Eduardo\Documents\proyecto\compraventacmsystems\obj\x86\Debug\login.Principal.resources
+C:\Users\Eduardo\Documents\proyecto\compraventacmsystems\obj\x86\Debug\login.Recibo.resources
