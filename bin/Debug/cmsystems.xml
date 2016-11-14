@@ -15,7 +15,15 @@ cmsystems
   Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
   búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
 </summary>
+</member><member name="P:login.My.Resources.Resources.icon_ico">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
 </member><member name="P:login.My.Resources.Resources.Jellyfish">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:login.My.Resources.Resources.shop_receive">
 	<summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
