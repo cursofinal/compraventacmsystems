@@ -1,4 +1,4 @@
-﻿Public Class Form2
+﻿Public Class Principal
 
     Private Sub Form2_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
 
@@ -9,7 +9,7 @@
     End Sub
 
     Private Sub ButtonItem1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ButtonItem1.Click
-        Form3.Show()
+        Recibo.Show()
         Me.Hide()
 
 
