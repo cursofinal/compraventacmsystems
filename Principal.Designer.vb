@@ -392,7 +392,7 @@ Partial Class Principal
         Me.Controls.Add(Me.RibbonControl1)
         Me.IsMdiContainer = True
         Me.Name = "Principal"
-        Me.Text = "Principal"
+        Me.Text = "  "
         Me.RibbonControl1.ResumeLayout(False)
         Me.RibbonControl1.PerformLayout()
         Me.RibbonPanel1.ResumeLayout(False)

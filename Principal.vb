@@ -17,6 +17,8 @@
 
     Private Sub btnfactura_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnfactura.Click
         factura.Show()
+        Me.Hide()
+
 
     End Sub
 End Class

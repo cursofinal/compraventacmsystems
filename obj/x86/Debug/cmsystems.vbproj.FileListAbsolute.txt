@@ -26,3 +26,13 @@ C:\Users\Eduardo\Documents\proyecto\compraventacmsystems\obj\x86\Debug\login.For
 C:\Users\Eduardo\Documents\proyecto\compraventacmsystems\obj\x86\Debug\login.Form3.resources
 C:\Users\Eduardo\Documents\proyecto\compraventacmsystems\obj\x86\Debug\login.Resources.resources
 C:\Users\Eduardo\Documents\proyecto\compraventacmsystems\obj\x86\Debug\cmsystems.vbproj.GenerateResource.Cache
+D:\proyectos nuevos\cmsystems\cmsystems\bin\Debug\cmsystems.exe
+D:\proyectos nuevos\cmsystems\cmsystems\bin\Debug\cmsystems.pdb
+D:\proyectos nuevos\cmsystems\cmsystems\bin\Debug\cmsystems.xml
+D:\proyectos nuevos\cmsystems\cmsystems\obj\x86\Debug\cmsystems.vbprojResolveAssemblyReference.cache
+D:\proyectos nuevos\cmsystems\cmsystems\obj\x86\Debug\login.factura.resources
+D:\proyectos nuevos\cmsystems\cmsystems\obj\x86\Debug\login.Form1.resources
+D:\proyectos nuevos\cmsystems\cmsystems\obj\x86\Debug\login.Principal.resources
+D:\proyectos nuevos\cmsystems\cmsystems\obj\x86\Debug\login.Recibo.resources
+D:\proyectos nuevos\cmsystems\cmsystems\obj\x86\Debug\login.Resources.resources
+D:\proyectos nuevos\cmsystems\cmsystems\obj\x86\Debug\cmsystems.vbproj.GenerateResource.Cache
