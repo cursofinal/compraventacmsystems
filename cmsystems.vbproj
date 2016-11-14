@@ -85,10 +85,10 @@
     <Compile Include="factura.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form2.Designer.vb">
-      <DependentUpon>Form2.vb</DependentUpon>
+    <Compile Include="CXP.Designer.vb">
+      <DependentUpon>CXP.vb</DependentUpon>
     </Compile>
-    <Compile Include="Form2.vb">
+    <Compile Include="CXP.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="login.vb">
@@ -133,8 +133,8 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>login.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form2.resx">
-      <DependentUpon>Form2.vb</DependentUpon>
+    <EmbeddedResource Include="CXP.resx">
+      <DependentUpon>CXP.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Principal.resx">
       <DependentUpon>Principal.vb</DependentUpon>

@@ -21,4 +21,9 @@
 
 
     End Sub
+
+    Private Sub ButtonItem15_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ButtonItem15.Click
+        CXP.Show()
+
+    End Sub
 End Class
